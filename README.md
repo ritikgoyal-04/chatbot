@@ -160,6 +160,3 @@ B.Tech CSE, NIT Srinagar
 
 If you like this project, don’t forget to **star ⭐ the repository**!
 
-
-
-Just tell me 👍
